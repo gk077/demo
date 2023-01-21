@@ -6,5 +6,9 @@ int main(){
 }
 
 int help(){
-    return 90;
+    return 87;
+}
+
+void ekuvacheyaku(){
+    return "venu";
 }
