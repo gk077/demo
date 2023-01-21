@@ -6,9 +6,13 @@ int main(){
 }
 
 int help(){
+<<<<<<< Updated upstream
     return 87;
 }
 
 void ekuvacheyaku(){
     return "venu";
+=======
+    return 007;
+>>>>>>> Stashed changes
 }
