@@ -5,6 +5,6 @@ int main(){
     return 2;
 }
 
-void help(){
-
+int help(){
+    return 90;
 }
