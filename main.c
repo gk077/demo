@@ -1,10 +1,10 @@
 int main(){
     int a=1;
-    helper();
+    help();
     //making changes on feature1 branch
     return 2;
 }
 
-void helper(){
+void help(){
 
 }
